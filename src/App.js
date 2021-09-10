@@ -9,7 +9,7 @@ export default function App() {
       <h2>Start editing to see some magic happen!</h2>
       <motion.div
         style={{
-          backgroundColor: "green",
+          backgroundColor: "yellow",
           width: "100px",
           borderRadius: "10px"
         }}
