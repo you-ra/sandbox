@@ -15,7 +15,7 @@ export default function App() {
         }}
         animate={{
           scale: 2,
-          rotate: 45
+          rotate: -45
         }}
       >
         This game has no name
